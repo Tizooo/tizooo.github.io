@@ -10,7 +10,7 @@ body {
   background-color: #222;
 }
 
-li, h1, h2 {
+li {
   margin-bottom: 4rem;
   text-align: center;
 }
