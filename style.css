@@ -15,6 +15,17 @@ li {
   text-align: center;
 }
 
+.container:not(.headline) {
+  background-color: #181818;
+  padding: 1%;
+  margin-right: 10%;
+  margin-left: 10%;
+  border-radius: 12px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+}
+
 p {
   margin-right: 10%;
   margin-left: 10%;
