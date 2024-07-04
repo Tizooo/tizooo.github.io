@@ -15,7 +15,7 @@ li, h1, h2 {
   text-align: center;
 }
 
-.container:not(.headline) {
+.container {
   background-color: #181818;
   padding: 1%;
   margin-right: 10%;
